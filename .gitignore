@@ -1,0 +1,11 @@
+__pycache__/
+env/
+*.ini
+config.php
+*.cfg
+*.csv
+*.xls
+*.xlsx
+*.zip
+*.log
+output/

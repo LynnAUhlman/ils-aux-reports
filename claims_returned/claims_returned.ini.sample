@@ -1,0 +1,8 @@
+[db]
+	connection_string = dbname='iii' user='PUT_USERNAME_HERE' host='sierra-db.cincinnatilibrary.org' password='PUT_PASSWORD_HERE' port=1032
+[email]
+	# seperate emails with a single space
+	email_list = ray.voelker@gmail.com ray.voelker@cincinnatilibrary.org
+	email_from = reports@ilsaux.plch.net
+	email_subject = claims_returned report
+	email_body = Claims Returned Report

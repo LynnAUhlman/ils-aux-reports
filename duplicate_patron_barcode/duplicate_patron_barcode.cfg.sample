@@ -1,0 +1,11 @@
+<?php
+
+$username = "USERNAME";
+$password = "PASSWORD";
+$dsn = "pgsql:"
+	. "host=sierra-db.server.org;"
+	. "dbname=iii;"
+	. "port=1032;"
+	. "sslmode=require;";
+
+?>
