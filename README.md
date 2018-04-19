@@ -2,11 +2,12 @@
 
 Here are some examples of automated reports on the Sierra ILS database.
 
-In the first example script ```claims_returned```, the automation has been 
-implemented using Python, which is probably the most logical choice in 
-terms of languages to use for this application. Getting it up and 
-running is fairly easy, and is explained in the ```README.md``` file 
-within that directory.
+In the first example script ```claims_returned```, the automation has 
+been implemented using Python, which is probably the most logical 
+choice in terms of languages to use for this application. Getting it up 
+and running is fairly easy, and is explained in the 
+[readme.md](ils-aux-reports/claims_returned/readme.md) file within that 
+directory.
 
 In the second example script, ```duplicate_patron_barcode``` the 
 automation has been implemented in PHP. This method makes use of the 
