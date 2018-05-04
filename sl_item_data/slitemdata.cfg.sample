@@ -1,0 +1,13 @@
+#SierraModulesLocation: /home/plchuser/Testing/Modules
+SierraModulesLocation: ./Modules
+
+DatabaseHost: sierra-db.yourlibrary.org
+DatabasePort: 1032
+DatabaseUser: USERNAME
+DatabasePass: PASSWORD
+
+OutputDir: /sierra/shelflist/itemdata
+
+FTPHost: ilstools.yourlibrary.org
+FTPUser: USERNAME
+FTPPass: PASSWORD

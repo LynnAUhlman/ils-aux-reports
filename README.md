@@ -20,3 +20,5 @@ method is a little more complex than the Python scripts used for this
 same purpose.
 
 The third example ```item_level_holds``` demonstrates a combination of PHP, Python, and Bash shell scripts.
+
+The fourth example ```sl_item_data``` is a *legacy* report written in Perl, and heavily customized. It's being included here only as an example (don't attempt to use)
